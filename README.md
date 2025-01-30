@@ -8,6 +8,6 @@ This repository will serve as a template for the in-class exercise of january 29
 # Team Members
 Write below the names of the team members.
 - Zaira García Bernal
-- Alejandro 
+- Alejandro Sarasti Sierra
 - Camilo Ramírez Arias
 
